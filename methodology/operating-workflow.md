@@ -9,10 +9,11 @@ Apply `methodology/indonesia-and-currency.md` throughout this workflow.
 3. **Routing and plan:** use `agents/registry.md` to select capabilities and write precise specialist assignments. Choose light or full path based on reversibility and materiality.
 4. **Specialist analysis:** run independent assignments in parallel; store outputs in `analyses/`.
 5. **Synthesis:** the Business Strategist reconciles evidence, scope, and disagreements.
-6. **Challenge and options:** challenge assumptions, then compare viable options before a proposed recommendation.
-7. **Human decision:** record approval, rejection, deferral, or experimental authorization in the Decision Record. No execution is implied by a proposal.
-8. **Execution planning:** after approval or experiment authorization, request the necessary Operations, Sales, and Marketing handoffs.
-9. **Measurement and review:** measure against predefined criteria; populate actual outcome and lessons, then update durable context only with reusable, sourced knowledge.
+6. **Challenge, uncertainty, and gates:** challenge assumptions; identify and rank only decision-changing uncertainties; derive gates and threshold origins; then compare viable options. Determine whether validation has positive decision value and define reconsideration and stop conditions.
+7. **Proposed recommendation:** state the recommendation state, evidence, gates, validation plan only when warranted, and what would change the recommendation. A proposal never authorizes action.
+8. **Human decision:** record approval, rejection, deferral, or experimental authorization in the Decision Record. No execution is implied by a proposal.
+9. **Execution planning:** after approval or experiment authorization, request the necessary Operations, Sales, and Marketing handoffs.
+10. **Measurement and review:** measure against predefined criteria; populate actual outcome and lessons, then update durable context only with reusable, sourced knowledge.
 
 If specialist findings conflict, preserve both claims and sources, identify why they differ (scope, date, method, or assumption), and request targeted follow-up only if it could change the decision.
 
@@ -35,3 +36,5 @@ For "Should we open another coffee-shop location?", route Business Strategist, F
 Each assignment receives: applicable methodology, targeted shared context, targeted business context, the Decision Brief, and specialist-specific evidence. Agents may inspect another file only when it materially affects their task; they should cite it rather than reproduce it.
 
 Use `methodology/financial-and-recommendation-standards.md` whenever a decision contains financial reasoning or a proposed recommendation.
+
+Use `methodology/decision-gates-and-validation.md` for every material decision and whenever a light-path decision has a meaningful unresolved uncertainty.

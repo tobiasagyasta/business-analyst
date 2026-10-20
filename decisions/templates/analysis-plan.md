@@ -6,7 +6,7 @@
 - Currency for internal analysis: `IDR / Rp`
 - Materiality and reversibility rationale: `[UNKNOWN]`
 - Workflow path: `[light / full]`
-- Critical unknowns that could change the decision: `[UNKNOWN]`
+- Decision-changing uncertainties: `[reference ranked assessment, or concise list for light path]`
 
 ## Context Package
 
@@ -20,8 +20,13 @@
 |---|---|---|---|---|---|---|
 | `[agent]` | `[capability]` | `[question]` | `[references]` | `[artifact]` | `[yes/no]` | `[what not to analyze]` |
 
-## Synthesis and Decision Gates
+## Uncertainty, Validation, and Gates
 
-- Follow-up required only if: `[condition]`
+- Uncertainties to tolerate and why: `[UNKNOWN]`
+- Validation required only if: `[uncertainty, decision effect, and positive decision-value rationale]`
+- Candidate method, limit, and expected decision use: `[UNKNOWN / None]`
+- Gate or owner judgment required before recommendation changes: `[condition and origin]`
+- Stop rule: `[when further research is no longer useful]`
+- Reconsideration condition: `[what would change the proposed recommendation]`
 - Required approval before execution: `[human / role]`
 - Proposed measurement or review date: `[UNKNOWN]`

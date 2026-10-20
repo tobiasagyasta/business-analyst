@@ -20,6 +20,17 @@
 - Assumptions: `[items]`
 - Risks and mitigations: `[items]`
 
+## Proposed Recommendation, Gates, and Reconsideration
+
+> Complete proportionately for material recommendations. A proposed state is not approval; the status above remains controlling.
+
+- Proposed recommendation state: `[PROCEED / PROCEED CONDITIONALLY / EXPERIMENT / DEFER AND VALIDATE / DEFER / REJECT / ESCALATE FOR HUMAN JUDGMENT]`
+- Decision-changing uncertainties and evidence strength: `[ranked reference or concise light-path summary]`
+- Gates and threshold origins: `[references or NONE REQUIRED]`
+- Validation selected and why it has positive decision value: `[reference / NONE]`
+- What would change this recommendation: `[conditions, resulting change, owner, and review timing; or No currently known condition would change the recommendation]`
+- Research / validation stop rule and residual uncertainty accepted: `[UNKNOWN / Not applicable]`
+
 ## Expected Outcome and Accountability
 
 - Expected outcome: `[UNKNOWN]`

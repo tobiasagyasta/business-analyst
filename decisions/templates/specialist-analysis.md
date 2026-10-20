@@ -37,6 +37,14 @@
 
 [Domain implications, not a final cross-functional decision.]
 
+## Decision-Changing Uncertainties and Candidate Gates
+
+| Uncertainty / switch point | Impact if wrong | Evidence strength | Candidate measurement, gate, or validation | Threshold origin or limitation |
+|---|---|---|---|---|
+| `[item]` | `[high/medium/low and why]` | `[HIGH/MEDIUM/LOW]` | `[item / None]` | `[source / UNKNOWN]` |
+
+Include only items that could materially change the decision within this domain. Do not choose the final cross-domain ranking or recommendation state.
+
 ## Recommended Follow-up
 
-[Only if it would materially reduce uncertainty; otherwise `None`.]
+[Only if it would materially reduce uncertainty and could change the decision. State method, expected evidence, cost/time if known, and why it is preferable to alternatives; otherwise `None`.]

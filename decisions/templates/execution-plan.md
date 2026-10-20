@@ -8,6 +8,7 @@
 - Indonesian geographic scope: `[reference Decision Brief]`
 - Currency for internal costs and budgets: `IDR / Rp`
 - Objective and KPIs: `[UNKNOWN]`
+- Decision gates, guardrails, and escalation triggers: `[reference Decision Record / Experiment]`
 - Review cadence: `[UNKNOWN]`
 
 ## Actions

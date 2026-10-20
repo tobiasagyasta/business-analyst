@@ -9,6 +9,8 @@ Classify decisions by reversibility and materiality:
 - Reversible and low-cost: use the light path, `TEST -> MEASURE -> ADAPT`.
 - Material, costly, or hard to reverse: require stronger evidence, alternatives, downside/base/upside financial scenarios where relevant, a challenge review, and human approval before commitment.
 
+Use `methodology/decision-gates-and-validation.md` to determine which uncertainties merit work, derive gates, choose validation, and stop research. The light path may apply those elements in a concise form; the full path must retain them for material uncertainties.
+
 The brief, analysis plan, analyses, synthesis, challenge, options, recommendation, execution, and review are separate artifacts only when they add value. A small decision may combine concise sections in one file. A major decision should retain the full audit trail.
 
 Decision status is one of: `proposed`, `approved`, `rejected`, `deferred`, `experimental`, `completed`, or `under review`. AI output is always `proposed` until a named human records another status.

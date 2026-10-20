@@ -20,10 +20,12 @@ Each specialist returns only domain findings, using these sections:
 8. Unknowns and conflicting evidence
 9. Confidence and limitations
 10. Implications for the decision
-11. Recommended follow-up, only if it would materially reduce uncertainty
+11. Decision-changing uncertainties, potential switch points, and evidence weaknesses within the domain
+12. Candidate measurements, gates, or validation methods, only if they could materially affect the decision
+13. Recommended follow-up, only if it would materially reduce uncertainty
 
 Specialists must not silently make the final cross-functional decision. Any recommendation must be limited to their domain.
 
 ## Synthesis and Execution
 
-The strategist produces alternatives before a proposed recommendation. The Operations Manager converts an approved or explicitly authorized experimental decision into an execution plan. Sales and marketing produce domain execution artifacts only when their work is approved or authorized as an experiment.
+The strategist produces alternatives before a proposed recommendation and owns the cross-domain ranking of uncertainties, validation value judgment, integrated gates, recommendation state, reconsideration conditions, and stop rule. Specialists provide domain inputs; they do not determine the final business decision. The Operations Manager converts an approved or explicitly authorized experimental decision into an execution plan. Sales and marketing produce domain execution artifacts only when their work is approved or authorized as an experiment.

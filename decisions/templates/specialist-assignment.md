@@ -11,12 +11,13 @@
 
 - Relevant durable context: `[file references]`
 - Allowed decision-specific evidence: `[references]`
-- Methodology: `methodology/indonesia-and-currency.md`, `methodology/evidence-and-confidence.md`, `methodology/artifact-contracts.md`, and `methodology/financial-and-recommendation-standards.md` when applicable
+- Methodology: `methodology/indonesia-and-currency.md`, `methodology/evidence-and-confidence.md`, `methodology/artifact-contracts.md`, `methodology/decision-gates-and-validation.md`, and `methodology/financial-and-recommendation-standards.md` when applicable
 
 ## Required Analysis
 
 - `[specific analysis 1]`
 - `[specific analysis 2]`
+- Identify domain uncertainties, evidence weaknesses, possible switch points, and feasible validation methods only where they could change the decision.
 
 ## Constraints and Exclusions
 

@@ -8,6 +8,7 @@
 - Decision deadline: `[UNKNOWN]`
 - Time horizon: `[UNKNOWN]`
 - Reversibility: `[reversible / partly reversible / hard to reverse / UNKNOWN]`
+- Materiality / downside exposure: `[UNKNOWN]`
 
 ## Question
 
@@ -23,6 +24,7 @@
 
 - Financial limits: `[UNKNOWN]`
 - Operational, legal, brand, or owner constraints: `[UNKNOWN]`
+- Owner preferences or judgments required: `[risk tolerance, brand, lifestyle, ethical, or strategic preference; UNKNOWN if not known]`
 
 ## Context References
 

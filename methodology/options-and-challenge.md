@@ -18,5 +18,8 @@ Before finalizing a material recommendation, the strategist explicitly reviews:
 - Fixed versus variable cost errors, opportunity costs, and profit versus cash-flow differences.
 - Operational bottlenecks, capacity limits, and portfolio trade-offs.
 - Whether a cheaper experiment could reduce uncertainty first.
+- Which remaining uncertainties could actually change the recommended action, scale, timing, or conditions.
+- Whether each proposed gate is observable, has a defensible threshold origin where numeric, and has a clear consequence if unmet.
+- Whether further validation would change the decision enough to justify its cost, time, and disruption, and when it should stop.
 
 Record challenges that change an option, confidence, or recommendation. This contract can later be assigned to a dedicated `specialized/strategy-critic` without changing the workflow.
